@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+*, html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+.hero-bg {
+    background-image: url(../img/hero-bg.jpg);
+    background-position: 50% 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.icons {
+    width: 80px;
+}
+
+.electric-bg {
+    background-image: url(../img/billionphotos1079319min.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
